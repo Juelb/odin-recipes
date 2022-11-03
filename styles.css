@@ -1,9 +1,24 @@
 body {
-    background-color: #e5e6e1;
+    background-color: #ffffff;
 }
 
-img,
-.center {
+.brownie {
+    height: auto;
+    width: 370px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.curry {
+    height: auto;
+    width: 270px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.lasagna {
     height: auto;
     width: 350px;
     margin-left: auto;
@@ -14,10 +29,11 @@ img,
 ul,
 h1 {
     text-align: center;
-    color: #0c523d;
+    color: #000000;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 h1 {
     font-size: 50px;
+    background-color: #29dda7;
 }
