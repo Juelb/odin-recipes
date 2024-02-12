@@ -1,0 +1,20 @@
+body {
+    font-family: "New Century Schoolbook", "cursive", sans-serif;
+    background-color: rgb(245, 239, 220);
+}
+
+.beef-stew {
+    width: 500px;
+    height: auto;
+}
+
+.big-title, 
+.medium-title {
+    text-align: center;
+    color: hsl(24, 85%, 42%);
+    font-weight: 800;
+}
+
+.list {
+    font-weight: 600;
+}

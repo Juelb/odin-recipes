@@ -17,10 +17,10 @@ h1,
     font-weight: bold;
 }
 
-a {
-    text-decoration: none;
-    color: rgb(131, 39, 39);
+a:hover {
+    text-decoration: underline;
+    color: #06c416;
     font-style: italic;
-    line-height: 2;
+    line-height: 1.5;
 }
 
